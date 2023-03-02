@@ -1,0 +1,45 @@
+.box {
+    background-color: aqua;
+    height: 1000px;
+}
+
+h1 {
+    background-color: rgb(21, 98, 98);
+}
+
+.paragraf1 {
+    background-color: brown;
+}
+
+h2 {
+    background-color: blue;
+}
+
+.paragraf2 {
+    background-color: blueviolet;
+}
+
+.lista {
+    background-color: rgb(22, 216, 106);
+    color: red;
+}
+
+.item1 {
+    color: rgb(159, 103, 34);
+}
+
+.item2 {
+    color: rgb(50, 103, 134);
+}
+
+.item3 {
+    color: rgb(110, 38, 133);
+}
+
+.item4 {
+    color: rgb(232, 80, 168);
+}
+
+.item5 {
+    color: rgb(163, 163, 12);
+}
